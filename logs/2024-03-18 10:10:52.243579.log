@@ -1,0 +1,9 @@
+| 2024-03-18T10:11:51.032714 - INFO: Found new Best Architeture at Epoch 0: {'hidden_layer': 300, 'activation': 'logistic', 'alpha': 1e-07, 'batch_size': 300, 'learning_rate': 0.1, 'max_iter': 150} |
+| 2024-03-18T10:11:51.033841 - INFO: RMSE: 107.86706 |                                                                                                
+| 2024-03-18T10:11:51.034121 - INFO: R2: 0.24749 |                                                                                                    
+| 2024-03-18T10:12:44.313475 - INFO: Found new Best Architeture at Epoch 2: {'hidden_layer': 350, 'activation': 'tanh', 'alpha': 1e-06, 'batch_size': 200, 'learning_rate': 0.1, 'max_iter': 100} |
+| 2024-03-18T10:12:44.314243 - INFO: RMSE: 102.82675 |                                                                                                
+| 2024-03-18T10:12:44.314525 - INFO: R2: 0.31617 |                                                                                                    
+| 2024-03-18T10:14:13.881257 - INFO: Final Best Architeture: {'hidden_layer': 350, 'activation': 'tanh', 'alpha': 1e-06, 'batch_size': 200, 'learning_rate': 0.1, 'max_iter': 100} |
+| 2024-03-18T10:14:13.882037 - INFO: RMSE MLP (Full Dataset): 106.53882 |                                                                             
+| 2024-03-18T10:14:13.882538 - INFO: R2 MLP (Full Dataset): 0.32192 |                                                                                 

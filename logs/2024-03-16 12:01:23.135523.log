@@ -1,0 +1,12 @@
+| 2024-03-16T12:01:32.099963 - INFO: Found new Best Architeture at Epoch 0: {'hidden_layer': 250, 'activation': 'relu', 'alpha': 1e-08, 'batch_size': 300, 'learning_rate': 1e-05, 'max_iter': 150} |
+| 2024-03-16T12:01:32.100751 - INFO: RMSE: 352.18329 |                                                                                                
+| 2024-03-16T12:01:32.100969 - INFO: R2: -7.02178 |                                                                                                   
+| 2024-03-16T12:01:36.269419 - INFO: Found new Best Architeture at Epoch 0: {'hidden_layer': 150, 'activation': 'relu', 'alpha': 0.001, 'batch_size': 250, 'learning_rate': 0.1, 'max_iter': 400} |
+| 2024-03-16T12:01:36.270046 - INFO: RMSE: 103.85400 |                                                                                                
+| 2024-03-16T12:01:36.270450 - INFO: R2: 0.30244 |                                                                                                    
+| 2024-03-16T12:04:19.306513 - INFO: Found new Best Architeture at Epoch 2: {'hidden_layer': 500, 'activation': 'tanh', 'alpha': 1e-05, 'batch_size': 300, 'learning_rate': 0.1, 'max_iter': 150} |
+| 2024-03-16T12:04:19.307068 - INFO: RMSE: 102.57242 |                                                                                                
+| 2024-03-16T12:04:19.307300 - INFO: R2: 0.31955 |                                                                                                    
+| 2024-03-16T12:07:23.087956 - INFO: Final Best Architeture: {'hidden_layer': 500, 'activation': 'tanh', 'alpha': 1e-05, 'batch_size': 300, 'learning_rate': 0.1, 'max_iter': 150} |
+| 2024-03-16T12:07:23.088838 - INFO: RMSE MLP (Full Dataset): 105.22802 |                                                                             
+| 2024-03-16T12:07:23.089351 - INFO: R2 MLP (Full Dataset): 0.33851 |                                                                                 

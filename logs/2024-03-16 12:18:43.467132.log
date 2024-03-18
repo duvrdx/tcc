@@ -1,0 +1,15 @@
+| 2024-03-16T12:18:44.269494 - INFO: Found new Best Architeture at Epoch 0: {'hidden_layer': 10, 'activation': 'relu', 'alpha': 0.001, 'batch_size': 300, 'learning_rate': 1e-06, 'max_iter': 400} |
+| 2024-03-16T12:18:44.269887 - INFO: RMSE: 351.53474 |                                                                                                
+| 2024-03-16T12:18:44.269928 - INFO: R2: -6.99226 |                                                                                                   
+| 2024-03-16T12:18:48.225085 - INFO: Found new Best Architeture at Epoch 1: {'hidden_layer': 30, 'activation': 'identity', 'alpha': 1e-06, 'batch_size': 300, 'learning_rate': 0.0001, 'max_iter': 200} |
+| 2024-03-16T12:18:48.225362 - INFO: RMSE: 351.44564 |                                                                                                
+| 2024-03-16T12:18:48.225657 - INFO: R2: -6.98821 |                                                                                                   
+| 2024-03-16T12:19:09.247335 - INFO: Found new Best Architeture at Epoch 3: {'hidden_layer': 10, 'activation': 'relu', 'alpha': 1e-05, 'batch_size': 200, 'learning_rate': 0.001, 'max_iter': 400} |
+| 2024-03-16T12:19:09.247665 - INFO: RMSE: 256.90730 |                                                                                                
+| 2024-03-16T12:19:09.247716 - INFO: R2: -3.26861 |                                                                                                   
+| 2024-03-16T12:19:14.114664 - INFO: Found new Best Architeture at Epoch 4: {'hidden_layer': 500, 'activation': 'identity', 'alpha': 1e-08, 'batch_size': 250, 'learning_rate': 0.001, 'max_iter': 450} |
+| 2024-03-16T12:19:14.115348 - INFO: RMSE: 124.88525 |                                                                                                
+| 2024-03-16T12:19:14.115585 - INFO: R2: -0.00869 |                                                                                                   
+| 2024-03-16T12:19:17.748835 - INFO: Final Best Architeture: {'hidden_layer': 500, 'activation': 'identity', 'alpha': 1e-08, 'batch_size': 250, 'learning_rate': 0.001, 'max_iter': 450} |
+| 2024-03-16T12:19:17.749318 - INFO: RMSE MLP (Full Dataset): 129.04365 |                                                                             
+| 2024-03-16T12:19:17.749516 - INFO: R2 MLP (Full Dataset): 0.00520 |                                                                                 
